@@ -2,7 +2,7 @@
 <body>
 <table>
 <tr>
-<td colspan="2">Shiv Nadar University Website does not consist of certain things such as:= </td></tr>
+<td colspan="2">Shiv Nadar University</td></tr>
 <tr><td>1.) Page Title</td><td> This website consists of 47 characters. The Page title should consist of 9 to 60 words.</td></tr>
 <tr><td>2.) Meta Description</td> <td>The websites meta description length is 0 characters. But most search engines will truncate meta descriptions to 160 characters.
 Try using more synonyms and unique keywords, so that the meta description length exceeds till 150 characters approx.</td></tr>
