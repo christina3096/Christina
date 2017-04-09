@@ -15,6 +15,11 @@ Try using more synonyms and unique keywords, so that the meta description length
 <tr><td>9.) Image Alt Test</td><td> The image alt attribute description should be a meaningful description of the image. The description needs to make it clear what is in the image.</td></tr>
 <tr><td>10.) Depreciated HTML Tags</td><td> There might be many HTML tags, which you are using in your webpage but they are depreciated and 
 many of the search engines do not support them.</td></tr>
+<tr><td>11.) Noindex Tag Checker</td><td>This webpage does not use the noindex meta tag. This means that the webpage will be read and indexed by search engines.</td></tr>
+<tr><td>12.) HTML Page Size Test</td><td>HTML size is 26.87 Kb and this is under the average web page size of 33 Kb. 
+This leads to a faster page loading time than average.</td></tr>
+<tr><td>13.) HTML Compression</td><td>The page is compressed using gzip compression on the code. HTML is compressed from 141.83 Kb to 26.87 Kb (81 % size savings). This helps ensure a faster loading web page and improved user experience.</td></tr>
+<tr><td>14.) NoFollow Tag Checker</td><td> The webpage does not use the nofollow meta tag. This means that search engins will crawl all links from the webpage.</td></tr>
 </table> 
 </body>
 </html>
