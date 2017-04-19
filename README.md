@@ -21,7 +21,7 @@
 This leads to a faster page loading time than average.</td></tr>
 <tr><td> HTML Compression</td><td>Found</td><td>The page is compressed using gzip compression on the code. HTML is compressed from 141.83 Kb to 26.87 Kb (81 % size savings).</td><td> This helps ensure a faster loading web page and improved user experience.</td></tr>
 <tr><td> NoFollow Tag Checker</td><td>Found</td><td> The webpage does not use the nofollow meta tag.</td><td>Here in the web page, the search engines will crawl all links from the webpage.</td></tr>
-<tr><td>Site Loading Speed Test</td><td>The site loading time is around 6.305 seconds and is over the average loading speed which is 5 seconds.</td><td>In order to resolve this problem you are advised to:
+<tr><td>Site Loading Speed Test</td><td>Not Found</td><td>The site loading time is around 6.305 seconds and is over the average loading speed which is 5 seconds.</td><td>In order to resolve this problem you are advised to:
 <UL>
 <li>Minimize HTTP requests</li>
 <li>Use Gzip compression </li>
@@ -34,6 +34,10 @@ This leads to a faster page loading time than average.</td></tr>
 <li>Reduce redirects</li>
 <li>Reduce the number of plug-ins</li>
 </UL></td></tr>
+<tr><td>Page Rank</td><td>Found</td><td>The Page Rank for this web page is 6.</td><td>The page rank for this web page is good. The higher the page rank, it is more likely to appear at the top of the search engine result.</td></tr>
+<tr><td>Social Media Check</td><td>Found</td><td>The web page is connected with several social media: Facebook, Twitter, GooglePlus;</td><td>Social Media Links may boost your search rank and profile ranks in search engine.</td></tr>
+<tr><td>JavaScript Error Checker</td><td>Not Found</td><td>Found 2 JavaScript error in the web page.</td><td>First of all, we have to locate the source of errors,if we are using JS plugins or other third party code, one should carefully read the documentation and use Syntax errors (a typo or missing character) to fix.</td></tr>
+<tr><td>IP Canonicalization Test</td><td>Not Found</td><td>Your site's IP 52.66.78.73 does not redirect to your site's domain name.</td><td>If a search engine indexes your site under both its IP and domain name which may cause duplicate content problem.</td></tr>
 </table> 
 </body>
 </html>
