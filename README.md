@@ -1,5 +1,5 @@
 <html>
-<body bg="#FFFFFF">
+<body>
 <table>
 <tr>
 <td align="center" colspan="4">Shiv Nadar University</td></tr>
@@ -21,6 +21,19 @@
 This leads to a faster page loading time than average.</td></tr>
 <tr><td> HTML Compression</td><td>Found</td><td>The page is compressed using gzip compression on the code. HTML is compressed from 141.83 Kb to 26.87 Kb (81 % size savings).</td><td> This helps ensure a faster loading web page and improved user experience.</td></tr>
 <tr><td> NoFollow Tag Checker</td><td>Found</td><td> The webpage does not use the nofollow meta tag.</td><td>Here in the web page, the search engines will crawl all links from the webpage.</td></tr>
+<tr><td>Site Loading Speed Test</td><td>The site loading time is around 6.305 seconds and is over the average loading speed which is 5 seconds.</td><td>In order to resolve this problem you are advised to:
+<UL>
+<li>Minimize HTTP requests</li>
+<li>Use Gzip compression </li>
+<li>Use HTTP caching</li>
+<li>Move all CSS style rules into a single, external and minified CSS file</li>
+<li>Minify all JS files and, if possible, try combining them into a single external JS file</li>
+<li>Include external CSS files before external JS files</li>
+<li>Place your JS scripts at the bottom of your page</li>
+<li>Optimize images</li>
+<li>Reduce redirects</li>
+<li>Reduce the number of plug-ins</li>
+</UL></td></tr>
 </table> 
 </body>
 </html>
