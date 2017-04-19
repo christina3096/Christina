@@ -1,5 +1,5 @@
 <html>
-<body bg="#FF0000">
+<body bg="#FFFFFF">
 <table>
 <tr>
 <td align="center" colspan="4">Shiv Nadar University</td></tr>
