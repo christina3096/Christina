@@ -13,14 +13,14 @@
 <tr><td> Sitemap Test</td><td>Found</td><td> This website consists of one sitemap test.</td><td>Having sitemap not only makes the navigation easy and better visibility by search engines.It also offer the opportunity to inform search engines immediately about any changes on your site.</td></tr>
 <tr><td> Underscores in Links Test</td><td>Not found</td><td>The web site does not contain any underscore links. <td>A link should not contain underscore but we should use dash(-) for a good link name. </td> </tr>
 <tr><td> SEO Friendly URL Test</td><td>Not found</td><td>In this web page 76 internal URLs are found which is not SEO friendly</td>  <td>In this, uppercase alphabets and special characters(eg:- & ? %) are not supported by SEO but it only contains lowercase alphabets, numbers,slashes(/) and dash(-) only.</td></tr>
-<tr><td> Image Alt Test</td><td> The image alt attribute description should be a meaningful description of the image. The description needs to make it clear what is in the image.</td></tr>
-<tr><td> Depreciated HTML Tags</td><td> There might be many HTML tags, which you are using in your webpage but they are depreciated and 
-many of the search engines do not support them.</td></tr>
-<tr><td> Noindex Tag Checker</td><td>This webpage does not use the noindex meta tag. This means that the webpage will be read and indexed by search engines.</td></tr>
-<tr><td> HTML Page Size Test</td><td>HTML size is 26.87 Kb and this is under the average web page size of 33 Kb. 
+<tr><td> Image Alt Test</td><td>Not found</td><td>The webpage has 73 'img' tags and 69 of them missing the required 'alt' attribute.</td><td> The image alt attribute description should be a meaningful description of the image. The description should make it clear what is in the image.</td></tr>
+<tr><td>Incline CSS Test</td><td>Not Found</td><td>The webpage is using 185 inline CSS styles.</td><td>We should move all the inline CSS rules into an external file in order to make the page "lighter" in weight and decrease the code to text ratio whereas, for each style attribute found, you must properly move all declarations in the external CSS file and remove the style attribute.</td></tr>
+<tr><td> Depreciated HTML Tags</td><td>Not found</td> <td>There might be many HTML tags, which you are using in your webpage but they are depreciated and many of the search engines do not support them.</td><td>First identify the web page's code and all deprecated HTML tags listed above and replace them with proper tags or CSS rules. </tr>
+<tr><td> Noindex Tag Checker</td><td>Found</td><td>This webpage does not use the noindex meta tag.</td><td> The webpage will be read and indexed by search engines.</td></tr>
+<tr><td> HTML Page Size Test</td><td>Found</td><td>HTML page size is 26.87 Kb.</td><td> The average web page size of 33 Kb. 
 This leads to a faster page loading time than average.</td></tr>
-<tr><td> HTML Compression</td><td>The page is compressed using gzip compression on the code. HTML is compressed from 141.83 Kb to 26.87 Kb (81 % size savings). This helps ensure a faster loading web page and improved user experience.</td></tr>
-<tr><td> NoFollow Tag Checker</td><td> The webpage does not use the nofollow meta tag. This means that search engins will crawl all links from the webpage.</td></tr>
+<tr><td> HTML Compression</td><td>Found</td><td>The page is compressed using gzip compression on the code. HTML is compressed from 141.83 Kb to 26.87 Kb (81 % size savings).</td><td> This helps ensure a faster loading web page and improved user experience.</td></tr>
+<tr><td> NoFollow Tag Checker</td><td>Found</td><td> The webpage does not use the nofollow meta tag.</td><td>Here in the web page, the search engines will crawl all links from the webpage.</td></tr>
 </table> 
 </body>
 </html>
